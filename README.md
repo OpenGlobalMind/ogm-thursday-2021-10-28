@@ -1,4 +1,4 @@
-# OGM Thursday Call/2021-10-28
+# OGM Thursday Call - 2021-10-28
 
 ## Topics
 
@@ -8,7 +8,7 @@
 - [[/Topics/Climate Change Responses]]
 - [[/Topics/COP26]]
 - [[/Topics/Dent Conference]]
-- [[/Topics/Facebooks' Metaverse]]
+- [[/Topics/Facebook's Metaverse]]
 - [[/Topics/Heroes]]
 - [[/Topics/Importance - Urgency Matrix]]
 - [[/Topics/Intertwingledness, Interdisciplinarity, Polycentricity]]
