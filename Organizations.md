@@ -1,8 +1,8 @@
 # Organizations
 
-- [[Brain Trust Charity]]
-- [[Club de Paris]]
-- [[Ostrom Institute]]
-- [[Paris Club]]
-- [[Skånemotor]]
-- [[The New Club of Paris]]
+- [[/Organization/Brain Trust Charity]]
+- [[/Organization/Club de Paris]]
+- [[/Organization/Ostrom Institute]]
+- [[/Organization/Paris Club]]
+- [[/Organization/Skånemotor]]
+- [[/Organization/The New Club of Paris]]
