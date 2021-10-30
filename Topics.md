@@ -1,10 +1,11 @@
 # Topics
 
+-[[Topic/8 Flux Superpowers]]
 - [[Topic/Attention vs. Presence]]
 - [[Topic/COP26]]
 - [[Topic/Choosing Topics]]
-- [[Topic/Climate Change Responses]]
-- [[Topic/Climate Change]]
+- [[Topic/Climate Problem Responses]]
+- [[Topic/Climate Problem]]
 - [[Topic/Dent Conference]]
 - [[Topic/Facebook's Metaverse]]
 - [[Topic/Great Man Theory]]

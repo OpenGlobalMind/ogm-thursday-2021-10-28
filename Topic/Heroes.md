@@ -8,4 +8,4 @@ Also see: the [[Topic/Hero's Journey]] and the [[Topic/Great Man Theory]].
  
  How can we scale up the  innovation capacities and capabilities of ordinary people?
  
- Because that's the only way that we're going to scale up something that's going to have any measure of mitigating against the disasters we're going to be facing in the future with [[Topic/Climate Change]].
+ Because that's the only way that we're going to scale up something that's going to have any measure of mitigating against the disasters we're going to be facing in the future with the [[Topic/Climate Problem]].
