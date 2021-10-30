@@ -1,3 +1,3 @@
 # Resources
 
-- [[/Douglass's Newsletter]]
+- [[Douglass's Newsletter]]

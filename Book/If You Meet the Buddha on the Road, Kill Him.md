@@ -2,7 +2,7 @@
 
 Title: If You Meet the Buddha on the Road, Kill Him! The Pilgrimage Of Psychotherapy Patients
 
-Author: [[/Person/Sheldon B. Kopp]]
+Author: [[Person/Sheldon B. Kopp]]
 
 Published: 2013
 

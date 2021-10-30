@@ -1,3 +1,3 @@
 # Magister Ludi
 
-See: [[/Book/The Glass Bead Game]]
+See: [[Book/The Glass Bead Game]]

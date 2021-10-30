@@ -1,3 +1,3 @@
 # Ostrom Institute
 
-See [[/Person/Elinor Ostrom]].
+See [[Person/Elinor Ostrom]].

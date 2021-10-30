@@ -4,7 +4,7 @@ Title: Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth
 
 Title: Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs
 
-Author: [[/Person/John Doerr]]
+Author: [[Person/John Doerr]]
 
 Published: 2018
 

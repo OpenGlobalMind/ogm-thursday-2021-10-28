@@ -4,7 +4,7 @@ Title: The Glass Bead Game
 
 German title: Das Glasperlenspiel
 
-Author: [[/Person/Hermann Hesse]]
+Author: [[Person/Hermann Hesse]]
 
 Published: 1943
 

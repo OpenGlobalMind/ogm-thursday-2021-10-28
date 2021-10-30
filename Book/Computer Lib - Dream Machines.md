@@ -2,7 +2,7 @@
 
 Title: Computer Lib/Dream Machines
 
-Author: [[/Person/Ted Nelson]]
+Author: [[Person/Ted Nelson]]
 
 Published: 1974
 
