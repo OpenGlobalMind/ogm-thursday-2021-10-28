@@ -2,7 +2,7 @@
 
 - [[/Book/Computer Lib - Dream Machines]]
 - [[/Book/Corporate Longitude]]
-- [[Book/Flux]]
+- [[/Book/Flux]]
 - [[/Book/If You Meet the Buddha on the Road, Kill Him]]
 - [[/Book/Magister Ludi]]
 - [[/Book/Measure What Matters]]

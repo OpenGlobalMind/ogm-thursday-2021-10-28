@@ -1,4 +1,4 @@
-[[Peter Kaminski]]
+[[/Peter Kaminski]]
 
 *08:03:11*
 
@@ -16,7 +16,7 @@
 
 > https://computerlibbook.com/ ($120)
 
-[[Jerry Michalski]]
+[[/Jerry Michalski]]
 
 *08:10:15*
 
@@ -68,7 +68,7 @@ Pete Kaminski
 
 > https://chaunceybell.com/
 
-[[Eric Rangell]]
+[[/Eric Rangell]]
 
 *08:13:34*
 
@@ -80,13 +80,13 @@ Pete Kaminski
 
 > a goal without a plan is a wish
 
-[[Stacey Druss]]
+[[/Stacey Druss]]
 
 *08:14:14*
 
 > The practice of planning for different possibilities could be most fruitful.
 
-[[Grace Rachmany]]
+[[/Grace Rachmany]]
 
 *08:16:14*
 
@@ -140,7 +140,7 @@ Jerry Michalski
 
 > Dent conference
 
-[[Gil Friend]]
+[[/Gil Friend]]
 
 *08:22:22*
 
@@ -188,7 +188,7 @@ Jerry Michalski
 
 > interdisciplinarity
 
-[[Wendy McLean]]
+[[/Wendy McLean]]
 
 *08:26:58*
 
@@ -206,7 +206,7 @@ Gil Friend
 
 > Julian: more some time about history in graph databases?
 
-[[Kevin Jones]]
+[[/Kevin Jones]]
 
 *08:28:22*
 
@@ -230,7 +230,7 @@ Wendy McLean, NY
 
 > Topic: What is the new story we need to be telling each other and ourselves to facilitate development of the plans and solutions that we need for this new phase of humanity
 
-[[Julian Gómez]]
+[[/Julian Gómez]]
 
 *08:30:06*
 
@@ -314,7 +314,7 @@ Pete Kaminski
 
 > Former US President Eisenhower used this so-called "Eisenhower Principle" to organize his tasks. He is quoted as saying, "What is important is seldom urgent and what is urgent is seldom important." It was Dr Stephen Covey (of "The 7 Habits of Highly Effective People" fame) who took these concepts mainstream, calling it The Urgent Important Matrix in his famous book . > > Urgent Important Matrix - Image of GridUsing a simple grid, it defines tasks according to their importance and urgency: > > Quadrant 1 - Crises - URGENT and IMPORTANT > Quadrant 2 - Goals and Planning - NON-URGENT and IMPORTANT > Quadrant 3 - Interruptions - URGENT and NOT IMPORTANT > Quadrant 4 - Distractions - NOT URGENT and NOT IMPORTANT > What do we mean here by Important and Urgent? > > Urgent Tasks: cause us to react, we stop what we're currently doing and work on the urgent task instead. > Important Tasks: lead us towards our overall mission or goals and these key actions often require planning, organization and initiative.
 
-[[Samuel Rose]]
+[[/Samuel Rose]]
 
 *08:36:15*
 
@@ -536,7 +536,7 @@ Wendy McLean, NY
 
 > I’d love to work on offering a new story around each of the various sections of society. May be a good framework to start this in Wheel of Co-Creation
 
-[[Leif Edvinsson]]
+[[/Leif Edvinsson]]
 
 *08:46:28*
 
@@ -662,7 +662,7 @@ Pete Kaminski
 
 > "how can we weave the new story?"
 
-[[Rick Botelho]]
+[[/Rick Botelho]]
 
 *08:54:13*
 
@@ -684,7 +684,7 @@ Eric Rangell
 
 > Pete - you might want to look at hyperdrive for large binary files
 
-[[doug carmichael]]
+[[/doug carmichael]]
 
 *08:56:05*
 
@@ -774,7 +774,7 @@ Jerry Michalski
 
 > Sam: https://bra.in/9jkNwq
 
-[[Gil Friend]]
+[[/Gil Friend]]
 
 *09:03:54*
 
