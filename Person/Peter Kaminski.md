@@ -1,3 +1,3 @@
-# Positive Maps Of The Future
+# Peter Kaminski
 
 _(this page needs more text)_

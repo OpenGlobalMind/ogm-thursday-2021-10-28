@@ -1,3 +1,3 @@
-# Positive Maps Of The Future
+# Jerry Michalski
 
 _(this page needs more text)_

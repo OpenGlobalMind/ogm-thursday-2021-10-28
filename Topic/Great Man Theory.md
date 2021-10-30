@@ -1,3 +1,3 @@
-# Positive Maps Of The Future
+# Great Man Theory
 
 _(this page needs more text)_

@@ -1,3 +1,3 @@
-# Positive Maps Of The Future
+# Wendy McLean
 
 _(this page needs more text)_

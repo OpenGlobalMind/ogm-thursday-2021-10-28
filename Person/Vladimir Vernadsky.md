@@ -1,3 +1,3 @@
-# Positive Maps Of The Future
+# Vladimir Vernadsky
 
 _(this page needs more text)_

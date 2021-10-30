@@ -1,3 +1,3 @@
-# Positive Maps Of The Future
+# Buckminster Fuller
 
 _(this page needs more text)_
