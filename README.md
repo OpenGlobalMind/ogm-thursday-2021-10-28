@@ -12,7 +12,7 @@
 
 ## Attendees
 
-- [[/Person/Doug Carmichael]]
+- [[Person/Doug Carmichael]]
 - [[/Person/Eric Rangell]]
 - [[/Person/Gil Friend]]
 - [[/Person/Grace Rachmany]]

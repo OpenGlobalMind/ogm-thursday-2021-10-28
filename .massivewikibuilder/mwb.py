@@ -31,7 +31,7 @@ def init_argparse():
 # set up markdown
 markdown_configs = {
     'mdx_wikilink_plus': {
-        'base_url': '',
+        'base_url': '/',
         'end_url': '.html',
         'url_whitespace': '_',
     },
