@@ -10,7 +10,7 @@ And there are actually a lot of plans. There's a conversation to be had about pl
 
 My friend [[Person/Chauncey Bell]] is fierce about this. He decries the notions of problems and solving.
 
-So **as soon as you say "problem," people think "solution,"** and **solution is fine for discrete problems, but not for messes**... about a Ted Nelson, intertwingled, complex, you know, well, what we're in. Where you cannot find discrete solutions. Everything's connected to everything else.
+So **as soon as you say "problem," people think "solution,"** and **solution is fine for discrete problems, but not for messes**... about a Ted Nelson, #intertwingled, complex, you know, well, what we're in. Where you cannot find discrete solutions. Everything's connected to everything else.
 
 You've got technical and social and political and you know, many different dimensions, not conducive to neat and tidy plans. [[Person/Dwight Eisenhower]], not only twice president, but also the architect of the D-Day invasion, is famous for saying that **plans are worthless, but planning is indispensable.**  (See [Plans Are Worthless, But Planning Is Everything](https://quoteinvestigator.com/2017/11/18/planning/) (Quote Investigator).)
 
@@ -18,10 +18,10 @@ You know, if you thought you had a plan, guess what? It's a little bit like [[Pe
 
 (Researched quote: "Everybody has plans until they get hit for the first time.")
 
-I also want to bring up here just briefly because it's really relevant: In [[Person/Dave Snowden]]'s [[Topic/Cynefin]] framework, the **way you deal with a complicated setting is really different from how you deal with a complex setting**.
+I also want to bring up here just briefly because it's really relevant: In [[Person/Dave Snowden]]'s [[Topic/Cynefin]] framework, the **way you deal with a #complicated setting is really different from how you deal with a #complex setting**.
 
-In a complicated setting, experts can help you, and you basically want to diagnose that, let the experts diagnose the problem, pick among the different solutions, and then implement that
+In a complicated setting, #experts can help you, and you basically want to diagnose that, let the experts diagnose the problem, pick among the different solutions, and then implement that
 
-In a complex setting, experts will screw you up  more often than they'll help you, probably. And you actually want to [[Topic/Think, Probe, Sense, and Respond]], by which he means, create a lot of experiments, see what works and then keep working toward what's working.
+In a complex setting, #experts will screw you up  more often than they'll help you, probably. And you actually want to [[Topic/Think, Probe, Sense, and Respond]], by which he means, create a lot of experiments, see what works and then keep working toward what's working.
 
-And that's really interesting because I think we may be needing to adapt a planning mode that is distributed, diverse, closely intertwingled meaning, inter-reported, and collaborative set of ways of **working our way forward in this mess**, because the [[Topic/Climate Problem]] is a big thorny hairball of lots of different issues.
+And that's really interesting because I think we may be needing to adapt a planning mode that is distributed, diverse, closely #intertwingled meaning, inter-reported, and collaborative set of ways of **working our way forward in this mess**, because the [[Topic/Climate Problem]] is a big thorny hairball of lots of different issues.

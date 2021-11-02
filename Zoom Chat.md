@@ -1084,7 +1084,7 @@ Pete Kaminski
 
 *09:24:19*
 
-> @Eric, I have a fair bit of experience and thought about post-processing videos like this, it would be fun to chat.  (the headline is that it's many hours of work, and i have a preference for folding that work into the call and participants itself; but there are different points in the spectrum of how to do it we could talk about.)
+> @Eric, I have a fair bit of experience and thought about post-processing videos like this, it would be fun to chat. (the headline is that it's many hours of work, and i have a preference for folding that work into the call and participants itself; but there are different points in the spectrum of how to do it we could talk about.)
 
 Rick Botelho
 

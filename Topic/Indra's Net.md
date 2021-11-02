@@ -6,6 +6,6 @@ Indra is very interestingly sort of connected to [[Indra's Net]], which is one o
 
 ![[_attachments/0521.png]]
 
-That's kind of this [[Holographic Vision Of Knowledge]], of weaving a new fabric.
+That's kind of this [[Holographic Vision Of Knowledge]], of #weaving a new fabric.
 
 I have all these different visions connected under a thought called [Visions That Have Inspired Builders Of Global Brains](https://bra.in/2pxbo6). So here's the [[Book/Magister Ludi]], [[Book/The Glass Bead Game]], [[Person/Doug Engelbart]]'s [[Topic/Mother Of All Demos]]. [[Vannevar Bush]]'s [[Memex]], the [[Noosphere]] from [[Person/Pierre Teilhard de Chardin]].

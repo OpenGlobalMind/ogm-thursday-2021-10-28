@@ -16,7 +16,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:00:44] but that's great. Hey, 
 
-[00:00:47] hello there, Leif from sweden. Nice to see you on Thursday. Yes, this is great. 
+[00:00:47] hello there, Leif from Sweden. Nice to see you on Thursday. Yes, this is great. 
 
 [00:00:56] Um, the day of the, uh, uh, the God of thunderstorms, Tor, 
 
@@ -44,7 +44,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:02:21] So, uh, I'm very excited to see what new maps might emerge from our conversation. It's triggering his mapping and my focus is on finding the positive maps of the future. 
 
-[00:02:36] And I can help a little bit by showing you Leif in my brain. Uh, he, uh, in fact, uh, he was named, uh, brain of the year, a few years ago, uh, which is done by the brain trust charity, uh, and in the UK, uh, which is run by, I guess, by Tony Buzan.
+[00:02:36] And I can help a little bit by showing you Leif in my brain. Uh, he, uh, in fact, uh, he was named, uh, brain of the year, a few years ago, uh, which is done by the brain trust charity, uh, and in the UK, uh, which is run by, I guess, by [[Person/Tony Buzan]].
 
 [00:03:03] Yeah. Unfortunately he died uh one-and-a-half year ago. 
 
@@ -420,7 +420,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:43:06] So this is like the beginning of [[Person/David Graeber]]'s' other book, [[Book/Debt]], where he says that the myth, the myth that money replaces barter ([[Topic/Primacy of Money]]) is bullshit.
 
-[00:43:15] The original money is for increments or bowls like a slave or a bride. And then we kind of go from there and suddenly one of the reasons I love [[The Great Transformation]] by [[Person/Karl Polanyi]] is that he's saying, Hey, Hey people, before the industrial economy, everything didn't have a price. And there were all these other ways in which we stayed alive, which we've completely forgotten.
+[00:43:15] The original money is for increments or bowls like a slave or a bride. And then we kind of go from there and suddenly one of the reasons I love [[Book/The Great Transformation]] by [[Person/Karl Polanyi]] is that he's saying, Hey, Hey people, before the industrial economy, everything didn't have a price. And there were all these other ways in which we stayed alive, which we've completely forgotten.
 
 [00:43:33] And can't even imagine now to the point where we've baked into the [[Topic/UN SDGs]], that everybody's got to have X number of dollars a day, or they're going to die. Right. And you're, you're envisioning. And I would love to figure out what is the conversation where we can have a very different world, uh, that works in different ways, but, but the world has been eaten by money and all these models you're talking about.
 

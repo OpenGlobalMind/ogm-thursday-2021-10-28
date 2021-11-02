@@ -22,7 +22,7 @@ One of the assertions she makes, which I'm not fully on board with is that, if w
 But in her book, she came up with these 8 Flux Superpowers and I'll go through them quickly because you'll see that they're pretty related.
 
 1. Run slower, slow your pace, stop the usual thing about must keep up, must run faster.
-2. See what's invisible, which means look at the periphery, which means integrate other things, which is a little bit the interdisciplinarity ([[Topic/Intertwingledness, Interdisciplinarity, Polycentricity]]), although I'm not sure she goes there.
+2. See what's invisible, which means look at the periphery, which means integrate other things, which is a little bit the #interdisciplinarity ([[Topic/Intertwingledness, Interdisciplinarity, Polycentricity]]), although I'm not sure she goes there.
 3. Get lost. Which is like, don't stay on the path, go find other places, go trip into other kinds of things.
 4. Start with trust, which builds a lot on my work and mentions my work and the chapter. Assume good intent and build from there.
 5. Start to realize when you have enough, not that you _are_ enough, but when you **have** enough, what is enoughness, which relates a lot to the stories and narratives that we have going about consumerism, that mean we can never have enough, which is part of the reason why we're eating the earth and polluting the earth ([[Topic/Climate Problem]]).
