@@ -9,3 +9,9 @@ Indra is very interestingly sort of connected to [[Indra's Net]], which is one o
 That's kind of this [[Holographic Vision Of Knowledge]], of #weaving a new fabric.
 
 I have all these different visions connected under a thought called [Visions That Have Inspired Builders Of Global Brains](https://bra.in/2pxbo6). So here's the [[Book/Magister Ludi]], [[Book/The Glass Bead Game]], [[Person/Doug Engelbart]]'s [[Topic/Mother Of All Demos]]. [[Vannevar Bush]]'s [[Memex]], the [[Noosphere]] from [[Person/Pierre Teilhard de Chardin]].
+
+> **Indra's Net** (also called Indra's jewels or Indra's pearls, Sanskrit Indrajwāla) is a metaphor used to illustrate the concepts of Śūnyatā (emptiness), pratītyasamutpāda (dependent origination), and interpenetration in Buddhist philosophy.
+>
+> The metaphor's earliest known reference is found in the Atharva Veda.  It was further developed by the Mahayana school in the 3rd century Avatamsaka Sutra and later by the Huayan school between the 6th and 8th centuries.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Indra's%20net)

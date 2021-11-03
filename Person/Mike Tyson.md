@@ -1,3 +1,5 @@
 # Mike Tyson
 
-_(this page needs more text)_
+> Michael Gerard Tyson (born June 30, 1966) is an American former professional boxer who competed from 1985 to 2005. Nicknamed "Iron Mike" and "Kid Dynamite" in his early career, and later known as "The Baddest Man on the Planet", Tyson is considered to be one of the greatest heavyweight boxers of all time. He reigned as the undisputed world heavyweight champion from 1987 to 1990. Tyson won his first 19 professional fights by knockout, 12 of them in the first round. Claiming his first belt at 20 years, four months, and 22 days old, Tyson holds the record as the youngest boxer ever to win a heavyweight title. He was the first heavyweight boxer to simultaneously hold the WBA, WBC and IBF titles, as well as the only heavyweight to unify them in succession. The following year, Tyson became the lineal champion when he knocked out Michael Spinks in 91 seconds of the first round. In 1990, Tyson was knocked out  by underdog Buster Douglas in one of the biggest upsets in history.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mike%20Tyson)

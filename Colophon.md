@@ -12,6 +12,11 @@ For a more complete experience, use a Markdown wiki navigator such as [Obsidian]
 
 Please, I would love to have comments, corrections, or additions to this workbook.  Send me an email (<mailto:kaminski@istori.com>), or add a comment or issue on the [GitHub/ogm-thursday-2021-10-28 repo](https://github.com/OpenGlobalMind/ogm-thursday-2021-10-28/issues), or clone, modify, and generate a pull request.  I'm happy to help you navigate any of the GitHub-based ways of collaborating with me on this workbook.
 
+## OGM Thursday Call of 2021-10-28
+
+- [2021-10-28 OGM Call in Jerry's Brain](https://bra.in/3jLbLN)
+- 
+
 ## Plus
 
 _things I like_

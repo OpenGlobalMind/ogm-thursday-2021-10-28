@@ -1,3 +1,5 @@
 # John Doerr
 
-_(this page needs more text)_
+> L. **John Doerr** (born June 29, 1951) is an American investor and venture capitalist at Kleiner Perkins in Menlo Park, California. In February 2009, Doerr was appointed a member of the President's Economic Recovery Advisory Board to provide the President and his administration with advice and counsel in trying to fix America's economic downturn. In 2017, related to Forbes, he was recognized the 40th Richest In Tech. As of July 2017, Forbes ranked Doerr as the 105th richest person in the United States and the 303rd richest person in the world, with a net worth of US$ 12.7 billion as of March 3, 2021. Doerr is the author of [[Book/Measure What Matters]], a book about goal-setting, and Speed & Scale: An Action Plan for Solving Our Climate Crisis Now. For 2019, his net worth increased up to $7.7 billion, being the 215th in the Billionaires 2019 list and the 56th in The Midas List: Top Tech Investors 2019.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Doerr)

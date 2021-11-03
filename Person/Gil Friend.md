@@ -1,3 +1,3 @@
 # Gil Friend
 
-_(this page needs more text)_
+see also: [[Resource/Living Between Worlds Webinar]]

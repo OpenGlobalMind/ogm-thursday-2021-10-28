@@ -1,5 +1,7 @@
 # Primacy of Money
 
+_[[Person/Grace Rachmany]] said:_
+
 What is the story ([[Topic/Stories, and The New Story]]) that's in place that is so pervasive that people can't talk outside of it. And that story is the story of #money and #finance, right?
 
 We're so #stuck in this story of **value being measured by something called money and that somehow we could like equivalent everything out**. And it's very bizarre.

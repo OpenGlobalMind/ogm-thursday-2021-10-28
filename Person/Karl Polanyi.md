@@ -1,3 +1,9 @@
 # Karl Polanyi
 
-_(this page needs more text)_
+> Karl Paul Polanyi (; Hungarian: Polányi Károly [ˈpolaːɲi ˈkaːroj]; 25 October 1886 – 23 April 1964) was an Austro-Hungarian economic historian, economic anthropologist, economic sociologist, political economist, historical sociologist and social philosopher.
+>
+> He is best known for his book [[Book/The Great Transformation]], which argues against self-regulating markets. In the book, he advances the concept of the Double Movement, which refers to the dialectical process of marketization and push for social protection against that marketization. In the book, he argues that market-based societies in modern Europe were not inevitable but historically contingent. Polanyi is remembered best as the originator of substantivism, a cultural version of economics, which emphasizes the way economies are embedded in society and culture. This opinion is counter to mainstream economics but is popular in anthropology, economic history, economic sociology and political science.
+>
+> Polanyi's approach to the ancient economies has been applied to a variety of cases, such as Pre-Columbian America and ancient Mesopotamia, although its utility to the study of ancient societies in general has been questioned. Polanyi's The Great Transformation became a model for historical sociology. His theories eventually became the foundation for the economic democracy movement. His daughter, Canadian economist Kari Polanyi Levitt (born 1923 in Vienna, Austria) was taught by Friedrich Hayek at the London School of Economics and is Emerita Professor of Economics at McGill University, Montreal.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Polanyi)

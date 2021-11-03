@@ -1,3 +1,5 @@
 # Vladimir Vernadsky
 
-_(this page needs more text)_
+> Vladimir Ivanovich Vernadsky (Russian: Влади́мир Ива́нович Верна́дский; Ukrainian: Володи́мир Іва́нович Верна́дський, romanized: Volodymyr Ivanovych Vernadskyi; 12 March [O.S. 28 February] 1863 – 6 January 1945) was a Russian, Ukrainian and Soviet mineralogist and geochemist who is considered one of the founders of geochemistry, biogeochemistry, and radiogeology. He is also known as the founder of the Ukrainian Academy of Sciences (now National Academy of Sciences of Ukraine). He is most noted for his 1926 book The Biosphere in which he inadvertently worked to popularize Eduard Suess' 1885 term biosphere, by hypothesizing that life is the geological force that shapes the earth. In 1943 he was awarded the Stalin Prize.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Vernadsky)

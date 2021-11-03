@@ -120,17 +120,17 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:10:13] I don't, I'm trying to reinstate the thought back in your brain, 
 
-[00:10:16] the, my brain. It w it worked, oh, my, uh, my living between worlds webinar last week was focused on critical four letter words. We talked about hope and fear.
+[00:10:16] the, my brain. It w it worked, oh, my, uh, my [[Resource/Living Between Worlds Webinar]] last week was focused on [[Topic/Critical Four Letter Words]]. We talked about "hope" and "fear.""
 
-[00:10:30] Uh, we didn't get to plan. And I think it would actually be interesting to have a conversation here about plans and planning. Um, uh, th th th this comes up because Doug Carmichael and a couple of other people have said to me, so where the fuck is the climate plan? Why isn't there a plan, just this huge crisis, why isn't there a plan?
+[00:10:30] Uh, we didn't get to "plan."" And I think it would actually be interesting to have a conversation here about plans and planning. This comes up because [[Person/Doug Carmichael]] and a couple of other people have said to me, so where the fuck is the climate plan? Why isn't there a plan, just this huge crisis, why isn't there a plan?
 
 [00:10:48] And there are actually a lot of plans. There's a conversation to be had about plans and planning. And how do you plan in a mess, which is different than planning a project to build things. Uh, so that, that, that angle on it feels pretty OCME. So that would be my other, rephrase it and say, do, how do you make a map when you are in a yeah.
 
 [00:11:11] And why, and why would you yeah, exactly. How do you navigate in a storm with no, And the people say, wait a minute, we need a plan. May not be the people to listen to at that point, but, you know, yeah. I thank you for the storm metaphor. My friend, Chauncey Bell is fierce about this. He, he, he decries, um, he decries the notions of problems and solving.
 
-[00:11:36] So as soon as you say, problem, people think solution and solution is fine for discrete problems, but not for messes, uh, about a Ted Nelson, intertwingled, complex, you know, uh, uh, uh, well, what we're in, uh, where there's not, you cannot find discrete solutions. Everything's connected to everything else.
+[00:11:36] So as soon as you say, problem, people think solution and solution is fine for discrete problems, but not for messes, uh, about a [[Ted Nelson]], intertwingled, complex, well, what we're in, where you cannot find discrete solutions. Everything's connected to everything else.
 
-[00:11:55] You've got technical and social and political and you know, many different dimensions, uh, not conducive to neat and tidy plans. Um, Dwight Eisenhower, not only twice president, but also the architect of the D-Day invasion, uh, is famous for saying, um, uh, planning is critically important planning. Uh, 
+[00:11:55] You've got technical and social and political and you know, many different dimensions, uh, not conducive to neat and tidy plans. [[Person/Dwight Eisenhower]], not only twice president, but also the architect of the D-Day invasion, uh, is famous for saying, um, uh, planning is critically important planning. Uh, 
 
 [00:12:18] so his quote is actually going to get it backwards.
 
@@ -144,7 +144,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:13:11] Okay. Uh, when I say where's the plan, I think what I meant was we have goals, but if there's not some statement of first steps, having a goal is totally useless and we have no concrete plan that I'm aware of for how to start actually cutting the use of fossil fuels at a level that's consistent with a problem we're facing.
 
-[00:13:38] Um, thank you and agree. And two things, one I'm on a science-y mailing list, uh, that has a bunch of people who know like way too much about this stuff and like, It's not that this is a heated list of lots of disagreements it's that there are just so many options flying that it's kind of amazing. And then I don't remember if it's this list for different lists, but, uh, uh, Amory Lovins is on one of those lists and is replying to questions about nuclear, the future of nuclear energy, just with, with an incredible depth of detail and knowledge about how and what, and the knock-on effects and the actual costs and the, this and the, that.
+[00:13:38] Um, thank you and agree. And two things, one I'm on a science-y mailing list, uh, that has a bunch of people who know like way too much about this stuff and like, It's not that this is a heated list of lots of disagreements it's that there are just so many options flying that it's kind of amazing. And then I don't remember if it's this list for different lists, but, uh, uh, [[Person/Amory Lovins]] is on one of those lists and is replying to questions about nuclear, the future of [[Topic/Nuclear Energy]], just with, with an incredible depth of detail and knowledge about how and what, and the knock-on effects and the actual costs and the, this and the, that.
 
 [00:14:15] And it's just like, like crazy interesting, but all of which has me sort of realizing what a tangle, what to do is because, um, you 
 
@@ -352,15 +352,15 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:34:03] fingers. Um, uh, Mike Tyson. Yeah. Um, echoes of George Patton, you know, resonates with Dwight Eisenhower, pat, uh, Tyson. In fact, he had a plan to condition himself to be strong and agile and resilient. Be able to take punch, have reflexes, uh, emotional fortitude to not freak out when he's got he's.
 
-[00:34:26] He basically cultivated the capacity to be in the ring and be effective. That was the plan, not the plan for what do I do when I get hit on the left side of my head. That's too specific. So there's different layers of planning. And I put in the chat, um, noted to Doug that, uh, you know, California is 40 years into an.
+[00:34:26] He basically cultivated the capacity to be in the ring and be effective. That was the plan, not the plan for what do I do when I get hit on the left side of my head. That's too specific. So there's different layers of planning. And I put in the chat, um, noted to Doug that, uh, you know, California is 40 years into a
 
-[00:34:45] Plan one might say trajectory, uh, that's focused on the principles of efficiency, renewables, and electrification as the priority stack and decades of policies, funding, measures, and so forth and support that general plan and direction. So my question is why is that not a plant? Um, And then if we get into that, you said the general question is there's there's there's layers, uh, or, uh, what's I, maybe that's not the right word there.
+[00:34:45] plan, one might say trajectory, uh, that's focused on the principles of efficiency, renewables, and electrification as the priority stack and decades of policies, funding, measures, and so forth and support that general plan and direction. So my question is why is that not a plant? Um, And then if we get into that, you said the general question is there's there's there's layers, uh, or, uh, what's I, maybe that's not the right word there.
 
 [00:35:17] They're sort of dimensions of plans from highly general framing to very specific tactical. And we may be get messed up in 
 
 [00:35:24] there, but, and entities, the scale of governments need to do things like that. I need to figure out where they're going to apply resources, budget, uh, how they're going to reconfigure themselves in Germany.
 
-[00:35:34] There's the NRG vendor, which is like, how do we move toward green? There's lots of governments that have been out leading with different flavors of plans. I think partly our conversation is that why isn't there a more unified plan? Are we, are we wishing that there were more 
+[00:35:34] There's the [[Topic/Energiewende], which is like, how do we move toward green? There's lots of governments that have been out leading with different flavors of plans. I think partly our conversation is that why isn't there a more unified plan? Are we, are we wishing that there were more 
 
 [00:35:49] the question? That's a very different question and it's an important one.
 
@@ -422,7 +422,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:43:15] The original money is for increments or bowls like a slave or a bride. And then we kind of go from there and suddenly one of the reasons I love [[Book/The Great Transformation]] by [[Person/Karl Polanyi]] is that he's saying, Hey, Hey people, before the industrial economy, everything didn't have a price. And there were all these other ways in which we stayed alive, which we've completely forgotten.
 
-[00:43:33] And can't even imagine now to the point where we've baked into the [[Topic/UN SDGs]], that everybody's got to have X number of dollars a day, or they're going to die. Right. And you're, you're envisioning. And I would love to figure out what is the conversation where we can have a very different world, uh, that works in different ways, but, but the world has been eaten by money and all these models you're talking about.
+[00:43:33] And can't even imagine now to the point where we've baked into the [[Topic/Sustainable Development Goals]], that everybody's got to have X number of dollars a day, or they're going to die. Right. And you're, you're envisioning. And I would love to figure out what is the conversation where we can have a very different world, uh, that works in different ways, but, but the world has been eaten by money and all these models you're talking about.
 
 [00:43:55] Um, so thank you for bringing that in fam. Welcome to the call. Let's go, Sam, lay Frick. Hey, 
 
@@ -442,7 +442,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:45:33] Everything's been eaten up by the dollar economy and there's, there's, there's a million different other ways to solve these problems. But until people are until the environment, the conditions are in the environment that create the conditions for the human beings to be ready to change their worldview.
 
-[00:45:49] And even then, there's not a guarantee. According to Clare W. Graves, even if you create the conditions, it doesn't guarantee that people, you can't force people to change their worldview. 
+[00:45:49] And even then, there's not a guarantee. According to [[Person/Clare W. Graves]], even if you create the conditions, it doesn't guarantee that people, you can't force people to change their worldview. 
 
 [00:45:59] So that one insight that I wanted to share with just that, that we have to create the 
 
@@ -452,7 +452,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:46:16] Um, and 
 
-[00:46:17] beyond that, there's already a bunch of sound theory from people like Elinor Ostrom and everybody else about how we could go about doing this. And there's decades of work from people that have proven that we can do things in a different way. And now it just literally boils down to people just sitting and looking at other people.
+[00:46:17] beyond that, there's already a bunch of sound theory from people like [[Person/Elinor Ostrom]] and everybody else about how we could go about doing this. And there's decades of work from people that have proven that we can do things in a different way. And now it just literally boils down to people just sitting and looking at other people.
 
 [00:46:33] Like they're crazy because they're not ready to operate that way. They're not ready to change their worldview. I think it's a big 
 
@@ -460,7 +460,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:46:55] So, um, uh, I think, uh, w what Wendy was referring to, it's extremely interesting and very good.
 
-[00:47:01] Then also the reference to restaurant, we need to have, uh, another way of scoring and developing the metrics, not measuring the metrics for value creation. That's why, uh, the CIC and model of the Nonaka in Japan is extremely interesting. It's a spiritual development between you and society and the enterprise in a spiritual dynamics.
+[00:47:01] Then also the reference to restaurant, we need to have, uh, another way of scoring and developing the metrics, not measuring the metrics for value creation. That's why, uh, the [[Topic/SECI model of knowledge dimensions]] of [[Person/Ikujiro Nonaka]] in Japan is extremely interesting. It's a spiritual development between you and society and the enterprise in a spiritual dynamics.
 
 [00:47:30] Very interesting. And also as a route for the development of the intangible economy in Japan. But the other dimension of this is that we have to lift up. And this is a little bit of the trick. I mentioned the traditional metrics. One plus one equals two, but actually the new one is one plus one equals 11.
 

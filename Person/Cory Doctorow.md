@@ -1,3 +1,5 @@
 # Cory Doctorow
 
-_(this page needs more text)_
+> Cory Efram Doctorow (; born July 17, 1971) is a Canadian-British blogger, journalist, and science fiction author who served as co-editor of the blog Boing Boing. He is an activist in favour of liberalising copyright laws and a proponent of the Creative Commons organization, using some of their licences for his books. Some common themes of his work include digital rights management, file sharing, and post-scarcity economics.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cory%20Doctorow)

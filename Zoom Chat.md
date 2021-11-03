@@ -684,7 +684,7 @@ Eric Rangell
 
 > Pete - you might want to look at hyperdrive for large binary files
 
-[[Person/doug carmichael]]
+[[Person/Doug Carmichael]]
 
 *08:56:05*
 

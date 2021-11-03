@@ -1,3 +1,5 @@
 # Paul Krafel
 
-_(this page needs more text)_
+Home page: [Nourishing Upward Spirals – Homepage of Paul Krafel](http://krafel.info/)
+
+[[Topic/Upward Spirals]]

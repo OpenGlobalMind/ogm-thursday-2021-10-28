@@ -1,3 +1,9 @@
 # Jack Welch
 
-_(this page needs more text)_
+> John Francis Welch Jr. (November 19, 1935 – March 1, 2020) was an American business executive, chemical engineer, and writer. He was Chairman and CEO of General Electric (GE) between 1981 and 2001.
+>
+> When he retired from GE he received a severance payment of $417 million, the largest such payment in business history.
+>
+> In 2006, Welch's net worth was estimated at $720 million.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Jack%20Welch)
