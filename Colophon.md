@@ -12,13 +12,18 @@ For a more complete experience, use a Markdown wiki navigator such as [Obsidian]
 
 If you don't want to try Obsidian, you can still download the [ogm-thursday-2021-10-28 zip file](https://github.com/OpenGlobalMind/ogm-thursday-2021-10-28/archive/refs/heads/main.zip), unzip it, and look at the files.  Notice how the ".md" files are plain text -- you can open them in your favorite text editor or Markdown text editor.
 
-
 Please, I would love to have comments, corrections, or additions to this workbook.  Send me an email (<mailto:kaminski@istori.com>), or add a comment or issue on the [GitHub/ogm-thursday-2021-10-28 repo](https://github.com/OpenGlobalMind/ogm-thursday-2021-10-28/issues), or clone, modify, and generate a pull request.  I'm happy to help you navigate any of the GitHub-based ways of collaborating with me on this workbook.
 
-## Other Call Artifacts
+## Other Artifacts
+
+### OGM Thursday Call, 2021-10-28
 
 - [2021-10-28 OGM Call in Jerry's Brain](https://bra.in/3jLbLN)
 - [2021-10-28 OGM Call Recording](https://www.youtube.com/watch?v=Ab8ROXHOv3o) (YouTube)
+
+### About This Workbook
+
+- [2021-11-02 Build OGM Call: Pete Kravs last Thursday's call @ 0:12:01](https://youtu.be/0Gudqs2DGMM?t=721) (YouTube) - walkthrough of earlier version of this workbook
 
 ## Plus
 
