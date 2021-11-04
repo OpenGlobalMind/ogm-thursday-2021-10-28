@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a "hypertext knowledge workbook" created by [[Person/Peter Kaminski]] that captures many of the topics discussed during the OGM Thursday call of 2021-10-28.  It has taken four or five hours to produce to this level of completion, which seems like a lot for what it is.  However, even though it's taken a fair bit of time to produce, it's a useful artifact, and a prototype I've learned a lot from, and seems like a good return on investment.
+This is a "hypertext knowledge workbook" created by [[Person/Peter Kaminski]] that captures many of the topics discussed during the OGM Thursday call of 2021-10-28.  It has taken perhaps six hours to produce to this level of completion, which seems like a lot for what it is.  However, even though it's taken a fair bit of time to produce, it's a useful artifact, and a prototype I've learned a lot from, and seems like a good return on investment.
 
 Think of it as an experiment, or a tech and content demonstration. It is not a completed work; in particular, it captures a good deal of the call, but not all of it.  Also, while I quite like some of the conventions in this version of this kind of workbook, there are other conventions that I would change in subsequent workbooks.
 
