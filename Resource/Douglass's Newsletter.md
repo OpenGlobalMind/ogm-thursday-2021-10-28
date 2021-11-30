@@ -6,4 +6,4 @@ Author: [[Person/Doug Carmichael]]
 
 Format: Email and web newsletter
 
-"Here it is, a new story"
+"Here it is, a [[new story]]"

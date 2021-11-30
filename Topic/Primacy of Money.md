@@ -1,5 +1,7 @@
 # Primacy of Money
 
+see also: [[Topic/Shareholder Primacy]]
+
 _[[Person/Grace Rachmany]] said:_
 
 What is the story ([[Topic/Stories, and The New Story]]) that's in place that is so pervasive that people can't talk outside of it. And that story is the story of #money and #finance, right?
@@ -8,7 +10,7 @@ We're so #stuck in this story of **value being measured by something called mone
 
 Cause it's all like, we're gonna, we're going to use this one thing called money. And it doesn't even matter if we call it money or whatever, and that's going to **measure everything** and it's just dramatically crazy. It's a crazy story.
 
-**Our new story has to include a very different paradigm for what's meaningful.**
+**Our [[new story]] has to include a very different paradigm for what's meaningful.**
 
 And it's like Star Trek World is kind of the closest we get to that, but there's something like about what's meaningful. And what does it mean to be a human being, and what are the things we want to look at, and how do we measure, the things that I think we need to measure, more like flows?
 

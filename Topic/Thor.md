@@ -1,5 +1,7 @@
 # Thor
 
+![[_attachments/Pasted image 20211124120551.png]]
+
 ## Spelling
 
 Spelled "Tor" in Swedish.

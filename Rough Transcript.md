@@ -182,7 +182,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:16:24] It could be that the whole concept of plan and planning is becoming obsolete. And what is the sort of say replacing paradigm of that old way of thinking? 
 
-[00:16:41] So two things on that one is that just last night I saw I've been story threading. Um, I've been prototyping story threading for unfinished 21, which is happening right now this week.
+[00:16:41] So two things on that one is that just last night I saw I've been [[StoryThreading]]. Um, I've been prototyping StoryThreading for [[Unfinished 21]], which is happening right now this week.
 
 [00:16:53] Uh, virtual conference in Romania and last after yesterday, is 
 
@@ -196,9 +196,9 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:17:13] Yeah. And I'm, I'm unfortunately taking us into a digression. That's not necessary. It is about the topic, but it's actually about story threading. I just wanted to share this with the group and then come back in and ask for, uh, some consensus on the topic. Um, so if you'll, if you'll permit me a minute and a half here, uh, so.
 
-[00:17:31] There was a session from the conference that I got to listen to ahead of time between who cares a lot about climate change. And one of the things that she says in this interview is basically that we don't have a new story. We don't have a consistent story, and I wanted to offer story versus plan. Uh, and she said basically that a unified direction for addressing climate change, hasn't been defined.
+[00:17:31] There was a session from the conference that I got to listen to ahead of time between who cares a lot about climate change. And one of the things that she says in this interview is basically that we don't have a [[new story]]. We don't have a consistent story, and I wanted to offer story versus plan. Uh, and she said basically that a unified direction for addressing climate change, hasn't been defined.
 
-[00:17:54] And I connected that back up to, uh, a Ted talk that I mentioned here, uh, maybe last week, maybe four, which is one of my now favorites. Actually, I, I mentioned it on these calls that I've connected to the thought, and this is George. the new political story that could change everything. And he talks about how, what we need is a new story to replace the old story.
+[00:17:54] And I connected that back up to, uh, a Ted talk that I mentioned here, uh, maybe last week, maybe four, which is one of my now favorites. Actually, I, I mentioned it on these calls that I've connected to the thought, and this is George. the new political story that could change everything. And he talks about how, what we need is a [[new story]] to replace the old story.
 
 [00:18:17] Uh, and we don't have. And I'll just pause there. Uh, and then also, uh, my better half has written a book about flux that basically says we are in a world of constant flux. It's only going to get faster. What we need to do is manage in the middle of chaos. And Doug, do you have your hand up again or would you like to put your hand down for a bit?
 
@@ -398,7 +398,7 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:40:47] Or they want to do a free consultation. I give a lot of free consultations because I love talking to people and they're like, well, what do you get in return? And I'm like, well, at this point in my life, I get the satisfaction of knowing somebody won't make the same mistake I already made. And that's it, that's the exchange.
 
-[00:41:03] I got a fair trade. They listened to my advice. That was it. And you know, I might've saved them. There's cases where I know I've saved people millions and it's like, yeah, but it was fair. And so it's just, you know, our new story has to include a very different paradigm for what's meaningful. Right. What's meaningful.
+[00:41:03] I got a fair trade. They listened to my advice. That was it. And you know, I might've saved them. There's cases where I know I've saved people millions and it's like, yeah, but it was fair. And so it's just, you know, our [[new story]] has to include a very different paradigm for what's meaningful. Right. What's meaningful.
 
 [00:41:28] And it's like Star Trek World is kind of the closest we get to that, but there's something like about what's meaningful. And what does it mean to be a human being and. And what are the things we want to look at and, and how do we measure, like the things that I think we need to measure more like flows?
 

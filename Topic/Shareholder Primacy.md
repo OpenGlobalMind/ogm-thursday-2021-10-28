@@ -1,0 +1,5 @@
+# Shareholder Primacy
+
+> **Shareholder primacy** is a theory in corporate governance holding that shareholder interests should be assigned first priority relative to all other corporate stakeholders. A shareholder primacy approach often gives shareholders power to intercede directly and frequently in corporate decision-making, through such means as unilateral shareholder power to amend corporate charters, shareholder referenda on business decisions and regular corporate board election contests. The shareholder primacy norm was first used by courts to resolve disputes among majority and minority shareholders, and, over time, this use of the shareholder primacy norm evolved into the modern doctrine of minority shareholder oppression.  James Kee writes, "If private property were truly respected, shareholder interest would be the primary, or even better, the sole purpose, of the corporation."The doctrine of shareholder's primacy is criticized for being at odds with corporate social responsibility and other legal obligations because it focuses solely on maximizing shareholder profits.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Shareholder%20primacy)
