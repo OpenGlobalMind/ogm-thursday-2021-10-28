@@ -70,9 +70,9 @@ _This is a machine transcription, mostly uncorrected.  There are many errors, bu
 
 [00:06:19] Computer lib, right? Exactly.
 
-[00:06:22] Yeah, I think Possiplex is his best, most recent book for anyone looking to study his ideas. 
+[00:06:22] Yeah, I think [[Possiplex]] is his best, most recent book for anyone looking to study his ideas. 
 
-[00:06:29] Cool. Yeah. Eric and Eric, you've gone deep into zigzag, which I'd love to hear about. Um... 
+[00:06:29] Cool. Yeah. Eric and Eric, you've gone deep into [[Topic/ZigZag (software)]], which I'd love to hear about. Um... 
 
 [00:06:36] and I've got a shrink wrap, shrink, wrapped copy of Computer Lib still. 
 
